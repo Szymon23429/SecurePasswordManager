@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_credential">Add Credential</string>
+    <string name="app_name">PasswordManager</string>
+    <string name="biometric_negative_button">Cancel</string>
+    <string name="biometric_subtitle">Log in using your biometric credential</string>
+    <string name="biometric_title">Biometric Authentication</string>
+    <string name="btn_biometric">Biometric Login</string>
+    <string name="btn_unlock">Unlock</string>
+    <string name="btn_use_password">Use Password</string>
+    <string name="category">Category</string>
+    <string name="category_banking">Banking</string>
+    <string name="category_other">Other</string>
+    <string name="category_personal">Personal</string>
+    <string name="category_social">Social Media</string>
+    <string name="category_work">Work</string>
+    <string name="clipboard_cleared">Clipboard cleared for security</string>
+    <string name="copy">Copy</string>
+    <string name="delete">Delete</string>
+    <string name="edit_credential">Edit Credential</string>
+    <string name="error_decrypting">Error Decrypting</string>
+    <string name="generate_password">Generate Password</string>
+    <string name="hint_pin">Enter 4-6 digit PIN</string>
+    <string name="include_numbers">Include Numbers</string>
+    <string name="include_symbols">Include Symbols</string>
+    <string name="logout">Logout</string>
+    <string name="msg_auth_error">Authentication error: %1$s</string>
+    <string name="msg_auth_failed">Authentication failed</string>
+    <string name="msg_biometric_not_setup">Login with PIN first to enable biometrics</string>
+    <string name="msg_copied">Password copied to clipboard</string>
+    <string name="msg_decrypt_failed">Failed to decrypt password</string>
+    <string name="msg_deleted">Deleted</string>
+    <string name="msg_encryption_failed">Encryption failed</string>
+    <string name="msg_invalid_pin">Enter a valid 4-6 digit PIN</string>
+    <string name="msg_required_fields">Service and Password are required</string>
+    <string name="password">Password</string>
+    <string name="password_length">Password Length</string>
+    <string name="save">Save</string>
+    <string name="search_hint">Search service...</string>
+    <string name="service_name">Service Name</string>
+    <string name="strength_label">Strength: %1$s</string>
+    <string name="strength_medium">Medium</string>
+    <string name="strength_strong">Strong</string>
+    <string name="strength_weak">Weak</string>
+    <string name="title_login">Unlock App</string>
+    <string name="username">Username</string>
+</resources>

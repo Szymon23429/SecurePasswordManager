@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+
+    <application
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SecurePasswordManager">
+        
+        <activity
+            android:name=".ui.activity.LoginActivity"
+            android:label="@string/title_login"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity 
+            android:name=".ui.activity.MainActivity"
+            android:label="@string/app_name" />
+        <activity 
+            android:name=".ui.activity.SecurityDashboardActivity"
+            android:label="@string/security_audit" />
+        <activity 
+            android:name=".ui.activity.AddEditCredentialActivity"
+            android:label="@string/add_credential" />
+        <activity 
+            android:name=".ui.activity.PasswordGeneratorActivity"
+            android:label="@string/generate_password" />
+        
+    </application>
+
+</manifest>

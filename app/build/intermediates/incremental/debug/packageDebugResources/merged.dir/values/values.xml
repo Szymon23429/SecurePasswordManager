@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="strength_medium">#FFEB3B</color>
+    <color name="strength_strong">#4CAF50</color>
+    <color name="strength_weak">#F44336</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_credential">Dodaj dane logowania</string>
+    <string name="app_name">PasswordManager</string>
+    <string name="biometric_negative_button">Anuluj</string>
+    <string name="biometric_subtitle">Zaloguj się używając swoich danych biometrycznych</string>
+    <string name="biometric_title">Autoryzacja biometryczna</string>
+    <string name="btn_biometric">Logowanie biometryczne</string>
+    <string name="btn_unlock">Odblokuj</string>
+    <string name="btn_use_password">Użyj hasła</string>
+    <string name="category">Kategoria</string>
+    <string name="category_banking">Bankowość</string>
+    <string name="category_other">Inne</string>
+    <string name="category_personal">Prywatne</string>
+    <string name="category_social">Social Media</string>
+    <string name="category_work">Praca</string>
+    <string name="clipboard_cleared">Schowek wyczyszczony dla bezpieczeństwa</string>
+    <string name="copy">Kopiuj</string>
+    <string name="delete">Usuń</string>
+    <string name="edit_credential">Edytuj dane logowania</string>
+    <string name="error_decrypting">Błąd deszyfrowania</string>
+    <string name="generate_password">Generuj hasło</string>
+    <string name="hint_pin">Wprowadź 4-6 cyfrowy PIN</string>
+    <string name="include_numbers">Uwzględnij cyfry</string>
+    <string name="include_symbols">Uwzględnij symbole</string>
+    <string name="logout">Wyloguj</string>
+    <string name="msg_auth_error">Błąd autoryzacji: %1$s</string>
+    <string name="msg_auth_failed">Autoryzacja nieudana</string>
+    <string name="msg_biometric_not_setup">Najpierw zaloguj się kodem PIN, aby włączyć biometrię</string>
+    <string name="msg_copied">Hasło skopiowane do schowka</string>
+    <string name="msg_decrypt_failed">Błąd deszyfrowania hasła</string>
+    <string name="msg_deleted">Usunięto</string>
+    <string name="msg_encryption_failed">Błąd szyfrowania</string>
+    <string name="msg_invalid_pin">Wprowadź poprawny 4-6 cyfrowy PIN</string>
+    <string name="msg_required_fields">Nazwa usługi i hasło są wymagane</string>
+    <string name="password">Hasło</string>
+    <string name="password_length">Długość hasła</string>
+    <string name="reused_passwords">Powtórzone hasła</string>
+    <string name="save">Zapisz</string>
+    <string name="search_hint">Szukaj usługi...</string>
+    <string name="security_audit">Audit Bezpieczeństwa</string>
+    <string name="service_name">Nazwa usługi</string>
+    <string name="strength_label">Siła hasła: %1$s</string>
+    <string name="strength_medium">Średnie</string>
+    <string name="strength_strong">Silne</string>
+    <string name="strength_weak">Słabe</string>
+    <string name="strong_passwords">Silne hasła</string>
+    <string name="title_login">Odblokuj Aplikację</string>
+    <string name="username">Nazwa użytkownika</string>
+    <string name="weak_passwords">Słabe hasła</string>
+    <style name="Theme.SecurePasswordManager" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#2196F3</item>
+        <item name="colorSecondary">#03DAC6</item>
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+    </style>
+</resources>

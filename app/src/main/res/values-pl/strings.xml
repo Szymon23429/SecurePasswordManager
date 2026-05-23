@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">PasswordManager</string>
+    <string name="title_login">Odblokuj Aplikację</string>
+    <string name="hint_pin">Wprowadź 4-6 cyfrowy PIN</string>
+    <string name="btn_unlock">Odblokuj</string>
+    <string name="btn_biometric">Logowanie biometryczne</string>
+    <string name="biometric_title">Autoryzacja biometryczna</string>
+    <string name="biometric_subtitle">Zaloguj się używając swoich danych biometrycznych</string>
+    <string name="biometric_negative_button">Anuluj</string>
+    <string name="add_credential">Dodaj dane logowania</string>
+    <string name="edit_credential">Edytuj dane logowania</string>
+    <string name="service_name">Nazwa usługi</string>
+    <string name="username">Nazwa użytkownika</string>
+    <string name="password">Hasło</string>
+    <string name="save">Zapisz</string>
+    <string name="generate_password">Generuj hasło</string>
+    <string name="password_length">Długość hasła</string>
+    <string name="include_symbols">Uwzględnij symbole</string>
+    <string name="include_numbers">Uwzględnij cyfry</string>
+    <string name="copy">Kopiuj</string>
+    <string name="delete">Usuń</string>
+    <string name="clipboard_cleared">Schowek wyczyszczony dla bezpieczeństwa</string>
+    
+    <string name="msg_invalid_pin">Wprowadź poprawny 4-6 cyfrowy PIN</string>
+    <string name="msg_auth_error">Błąd autoryzacji: %1$s</string>
+    <string name="msg_auth_failed">Autoryzacja nieudana</string>
+    <string name="msg_copied">Hasło skopiowane do schowka</string>
+    <string name="msg_decrypt_failed">Błąd deszyfrowania hasła</string>
+    <string name="msg_deleted">Usunięto</string>
+    <string name="strength_weak">Słabe</string>
+    <string name="strength_medium">Średnie</string>
+    <string name="strength_strong">Silne</string>
+    <string name="strength_label">Siła hasła: %1$s</string>
+    <string name="msg_required_fields">Nazwa usługi i hasło są wymagane</string>
+    <string name="msg_encryption_failed">Błąd szyfrowania</string>
+    <string name="btn_use_password">Użyj hasła</string>
+    <string name="error_decrypting">Błąd deszyfrowania</string>
+    <string name="search_hint">Szukaj usługi...</string>
+    <string name="category">Kategoria</string>
+    <string name="category_work">Praca</string>
+    <string name="category_social">Social Media</string>
+    <string name="category_banking">Bankowość</string>
+    <string name="category_personal">Prywatne</string>
+    <string name="category_other">Inne</string>
+    <string name="logout">Wyloguj</string>
+    <string name="msg_biometric_not_setup">Najpierw zaloguj się kodem PIN, aby włączyć biometrię</string>
+</resources>
