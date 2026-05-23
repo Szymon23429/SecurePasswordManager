@@ -22,7 +22,7 @@ A secure, modern, and user-friendly Android application designed to help individ
 *   **Local-Only Data:** Your data stays on your phone. No cloud syncing means you have total control over your information.
 *   **Auto-Clear Clipboard:** For added safety, copied passwords are automatically cleared from your clipboard after a short duration.
 
-## 👥Who is this for?
+## Who is this for?
 
 **PasswordManager** is designed for anyone who takes their digital security seriously but wants a simple solution:
 
